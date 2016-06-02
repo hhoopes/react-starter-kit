@@ -1,4 +1,6 @@
-# React Starter Kit
+Grudge Bin
+
+A first attempt at writing a React app following a model given in class. 
 
 To install the dependencies:
 
